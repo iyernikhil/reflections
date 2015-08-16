@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git stores a .git file to initiate git connected commands on this folder. This is done so that commits can be made on the repository in the future.
